@@ -1,0 +1,723 @@
+[
+  {
+    "id": 1,
+    "dohe": "धिक मो कहँ बचन लगि, मो पति लह्यो विराग। \n\nभई वियोगिनी निज करनि, रहूँ उड़वति काग॥ ",
+    "meaning": "मुझे धिक्कार है, मेरे वचन लग जाने के ही कारण मेरे पति मेरे प्रति अनासक्त हो गए। इस प्रकार अपनी करनी से ही मैं वियोगिनी बनकर काक उड़ाती रहती हूँ।",
+    "english": "Shame on me, my husband became disinterested in me because of my commitment. In this way, due to my actions, I remain a stranger and keep on raising my voice.",
+    "Gujarati": "મારા પર શરમ આવે છે, મારી પ્રતિબદ્ધતાને કારણે મારા પતિને મારામાં રસ ન હતો. આ રીતે, મારા કાર્યોને લીધે, હું અજાણ્યો રહીશ અને મારો અવાજ ઉઠાવતો રહું છું."
+  },
+  {
+    "id": 2,
+    "dohe": "परहित जीवन जासु जग, रतन सफल है सोइ। \n\nनिज हित कूकर काक कपि, जीवहिं का फल होइ॥ ",
+    "meaning": "जगत् में उसी का जीवित रहना सफल है, जिसका जीवन परोपकार के लिए होता है। अपने लिए तो कुत्ता कौआ और बंदर भी जीते हैं। ऐसे जीवन से क्या लाभ?\n\n",
+    "english": "Only he who lives for charity is successful in surviving in this world. Even dogs, crows and monkeys live for themselves. What is the benefit of such a life?",
+    "Gujarati": "જેનું જીવન દાન માટે સમર્પિત છે તે જ આ દુનિયામાં ટકી રહેવામાં સફળ છે. કૂતરા, કાગડા અને વાંદરાઓ પણ પોતાના માટે જીવે છે. આવા જીવનનો શું ફાયદો?"
+  },
+  {
+    "id": 3,
+    "dohe": "हों न नाथ अपराधिनी, तौउ छमा करि देउ। \n\nचरनन दासी जानि निज, वेगि भोरि सुधि लेउ॥ ",
+    "meaning": "हे प्राणनाथ! मैं अपराधिनी नहीं हूँ। यदि आपकी दृष्टि में अपराधिनी हूँ, तो भी मुझे क्षमा कर दीजिए। अपने चरणों की दासी (अपनी भार्या) समझकर त्वरित ही मेरी सुध लीजिए।",
+    "english": "Hey Prannath! I am not a criminal. Even if I am a criminal in your eyes, please forgive me. Consider me as the maid of your feet (your wife) and take care of me immediately.",
+    "Gujarati": "હે પ્રાણનાથ! હું ગુનેગાર નથી. જો હું તમારી નજરમાં ગુનેગાર હોઉં તો પણ મને માફ કરજો. મને તમારા પગની દાસી (તારી પત્ની) માનો અને તરત જ મારી સંભાળ લો."
+  },
+  {
+    "id": 4,
+    "dohe": "जदपि गए घर सों निकरे, मो मन निकरे नाहिं। \n\nमन सों निकरों ता दिनहिं, जा दिन प्रान नसाहिं॥ ",
+    "meaning": "हे नाथ! यद्यपि आप गृह से निकल गए हैं, तथापि मेरे मन-मंदिर से नहीं निकले हैं। हे देव! मन से तो आप उसी दिन निकलेंगे, जिस दिन मेरे प्राण नाश को प्राप्त होंगे।\n\n",
+    "english": "\nHey Nath! Although you have left the house, yet you have not left the temple of my mind. Hey, God! You will go out of my mind on the same day when my life will be destroyed.",
+    "Gujarati": "હે નાથ ! ભલે તમે ઘર છોડી દીધું, છતાં મારા મનનું મંદિર છોડ્યું નથી. હે ભગવાન! જ્યારે મારું જીવન નાશ પામશે તે જ દિવસે તમે મારા મગજમાંથી નીકળી જશો."
+  },
+  {
+    "id": 5,
+    "dohe": "सनक सनातन कुल सुकुल, गेह भयो पिय स्याम। \n\nरत्नावली आभा गई, तुम बिन बन सैम ग्राम॥ ",
+    "meaning": "हे प्रिय! सनक ऋषि का सुकुल कुल अब श्याम हो गया है। मुझ रत्नावली की भी सभी प्रकार की कांति आपके बिना चली गई है और उसके लिए ग्राम भी, हे कांत! आपके बिना कांतार सम हो गया है।",
+    "english": "Oh dear! Sanak Rishi's happy family has now become dark. My Ratnavali too has lost all its glory without you and for that too the villages too, O Kant! The queue has become even without you.",
+    "Gujarati": "હે વ્હાલા! સનક ઋષિનો સુખી સંસાર હવે અંધકારમય બની ગયો છે. મારી રત્નાવલી પણ તારા વિના સર્વ વૈભવ ગુમાવી બેઠી છે અને તેના માટે ગામડાઓ પણ હે કાન્ત! તમારા વિના કતાર સમાન બની ગઈ છે."
+  },
+  {
+    "id": 6,
+    "dohe": "दीन बंधु कर घर पली, दीनबंधु कर छांह। \n\nतौउ भई हों दीन अति, पति त्यागी मो बाहं॥ ",
+    "meaning": "मैं दीनबंधु पिता के घर में पली और दीनबंधु (दिनों के बंधु पूज्य पति तुलसी) के कर कमलों का आश्रय रहा। फिर भी मैं अत्यंत संतप्त हो गई क्योंकि पति (श्री तुलसीदास जी) ने मेरी बाँह छोड़ दी।",
+    "english": "I grew up in the house of my father Deenbandhu and took shelter under the lotus feet of Deenbandhu (my brother in law, revered husband Tulsi). Still, I became extremely upset because my husband (Shri Tulsidas ji) left my hand.",
+    "Gujarati": "હું મારા પિતા દીનબંધુના ઘરે ઉછર્યો અને દીનબંધુ (મારા સાળા, આદરણીય પતિ તુલસી) ના કમળના પગ નીચે આશ્રય લીધો. તેમ છતાં, મારા પતિ (શ્રી તુલસીદાસજી)એ મારો હાથ છોડી દીધો હોવાથી હું અત્યંત અસ્વસ્થ થઈ ગઈ."
+  },
+  {
+    "id": 7,
+    "dohe": "सबहिं तीरथनु रमि रह्यौ, राम अनेकन रूप। \n\nजहीं नाथ आऔ चले, ध्याऔ त्रिभुवन भूप॥ ",
+    "meaning": "सभी तीर्थो में अनेक रूपों में राम रमण कर रहे हैं। हे नाथ! यहीं आ जाइए और त्रिभुवन भूप का यहीं ध्यान कीजिए।",
+    "english": "Ram Raman is present in many forms in all the places of pilgrimage. Hey Nath! Come here and meditate on Tribhuvan Bhup right here.",
+    "Gujarati": "તમામ તીર્થસ્થાનોમાં રામ રમણ અનેક સ્વરૂપોમાં વિદ્યમાન છે. હે નાથ ! અહીં આવો અને અહીં જ ત્રિભુવન ભૂપનું ધ્યાન કરો."
+  },
+  {
+    "id": 8,
+    "dohe": "छमा करहु अपराध सब, अपराधिनी के आय। \n\nबुरी भली हों आपकी, तजउ न लेउ निभाय॥ ",
+    "meaning": "मुझ अपराधिनी के सारे अपराधों को आप छमा कीजिए। मैं बुरी हूँ या भली हूँ, जैसी भी हूँ आपकी हूँ, अतः मेरा त्याग न कीजिए और मुझे निभा लीजिए।\n\n",
+    "english": "Please forgive all the crimes of my criminal. Whether I am bad or good, I am yours, so do not abandon me and keep me.",
+    "Gujarati": "કૃપા કરીને મારા ગુનેગારના તમામ ગુનાઓ માફ કરો. હું ખરાબ હોઉં કે સારો, હું તમારો જ છું, માટે મને છોડીને મને રાખશો નહિ."
+  },
+  {
+    "id": 9,
+    "dohe": "बालहि सिख सिखाए अस, लखि-लखि लोग सिहाय। \n\nआसिष दें हर्षें रतन, नेह करें पुलकाय॥ ",
+    "meaning": "बच्चों को ऐसी शिक्षा दो कि लोग उसे देखकर सराहें, प्रसन्न हों, आशीर्वाद दें और रोमांचित होकर स्नहे करें।",
+    "english": "Give children such education that people will appreciate, be happy, bless and love them with excitement.",
+    "Gujarati": "બાળકોને એવું શિક્ષણ આપો કે લોકો તેમની પ્રશંસા કરે, ખુશ થાય, આશીર્વાદ આપે અને ઉત્સાહથી પ્રેમ કરે."
+  },
+  {
+    "id": 10,
+    "dohe": "मात पिता सासु ससुर, ननद नाथ कटु बैन। \n\nभेषज सैम रतनावलि, पचत करत तनु चैन॥ ",
+    "meaning": "माता-पिता, सास-ससुर, ननद और पति के कटु वचन कड़वी औषधि के समान परिणाम में हितकारक होते हैं।",
+    "english": "The harsh words of parents, mother-in-law, sister-in-law and husband are as beneficial in results as bitter medicine.",
+    "Gujarati": "માતા-પિતા, સાસુ, વહુ અને પતિની કઠોર વાણી કડવી દવાની જેમ પરિણામમાં લાભકારી છે."
+  },
+  {
+    "id": 11,
+    "dohe": "रतन भाव भरि भूरि जिमि, कवि पद भरत समास। \n\nतिमी उचरहु लघु पद करहि, अरथ गंभीर विकास॥ ",
+    "meaning": "जिस प्रकार कवि लोग बहुत सा बहाव भर कर समास वाले पदों का प्रयोग करते हैं, उसी प्रकार तुम भी छोटे-छोटे पदों का उच्चारण करके गंभीर अर्थ का विकास करो।\n\n",
+    "english": "Just as poets use compound words in large numbers, in the same way you too develop serious meaning by pronouncing small words.",
+    "Gujarati": "જેમ કવિઓ સંયુક્ત શબ્દોનો ઉપયોગ મોટી સંખ્યામાં કરે છે, તેવી જ રીતે તમે પણ નાના શબ્દો ઉચ્ચારીને ગંભીર અર્થ વિકસાવો છો"
+  },
+  {
+    "id": 12,
+    "dohe": "करहु दुखी जनि काहु को, निदरहु काहु न कोय। \nको जाने रत्नावली, आपनि का गति होय॥",
+    "meaning": "कभी किसी को दुःखी मत करो और न किसी का निरादर करो, कौन जानता है कि अपनी क्या गति आगे होगी।",
+    "english": "Do not make anyone sad, nor disrespect anyone. Who knows what one's own fate will be.",
+    "Gujarati": "કોઈને દુઃખી ના કરો અને કોઈનો અપમાન ના કરો. કોને ખબર છે કે પોતાની ક્યા ગતિ થશે."
+  },
+  {
+    "id": 13,
+    "dohe": "अनृत वचन माया रचन, रतनावलि बिसारी। \nमाया अनरित कारने, सति तजि त्रिपुरारि॥",
+    "meaning": "झूठ बोलना और कपट करना छोड़ दो। भगवान ने इन दोनों कारणों से सति का परित्याग कर दिया था।",
+    "english": "Give up speaking falsehoods and practicing deceit. Lord Shiva abandoned Sati due to these reasons.",
+    "Gujarati": "મોટું અપમાન કરવા અને કપટથી કાર્ય કરવાનું છોડી દો. ભગવાન શિવે આ બદલે સતીને છોડી દિધું."
+  },
+  {
+    "id": 14,
+    "dohe": "हाय सहज ही हों कही, लह्यो बोध हिरदेस। \nहों रत्नावली जँचि गई, पिय हिय काँच विसेस॥",
+    "meaning": "मैंने अपनी बात स्वाभाविक ढंग से कही थी, किंतु हृदयेश (तुलसीदास जी) ने इससे ज्ञान प्राप्त कर लिया। उस ज्ञान के प्रभाव से मैं उनके हृदय में काँच के समान प्रतीत हुई।",
+    "english": "I naturally spoke my mind, but Tulsi Das gained wisdom from it. Because of that wisdom, I appeared as precious as glass in his heart.",
+    "Gujarati": "હું સ્વાભાવિક રીતે મારી બાત કહી હતી, પરંતુ તુલસીદાસજીએ તેમને જ્ઞાન મેળવ્યો. તે જ્ઞાનના પ્રભાવથી મેં તેમના હૃદયમાં કાચના જેવું માની આવ્યું."
+  },
+  {
+    "id": 15,
+    "dohe": "पति सेवति रत्नावली, सकुची धरि मन लाज। \nसकुच गई कछु पिय गए, सज्यो न सेवा साज॥",
+    "meaning": "मैं मन में लज्जा करती हुई पति की सेवा संकोच से करती। जब कुछ संकोच दूर हुआ, तब मेरे पति (श्री तुलसीदास) चले गए इसलिए मेरा पति-सेवा का साज सज न सका।",
+    "english": "With a shy heart, I served my husband, holding back somewhat. When hesitations disappeared, my husband (Shri Tulsi Das) departed, so my service could not be properly adorned.",
+    "Gujarati": "હું મને લાજવી દર્દી હતી, પતિને થોડા સંકોચે સેવા કરી. જ્યારે સંકોચ દૂર થઇ ગયો ત્યારે મારા પતિ (શ્રી તુલસીદાસ) ચલા ગયા, એવું કે મારી સેવા સારવી ના રહી શક્યું."
+  },
+  {
+    "id": 16,
+    "dohe": "जे तिय पति हित आचरहिं, रहि पति चित अनुकूल। \n\nलखहिं न सपनेहूँ पर पुरुष, ते तारहिं दोउ कूल॥ ",
+    "meaning": "जो नारियों पति की भलाई करती हुई उनके अनुकूल आचरण करती हैं और स्वप्न में भी पर पुरुष को नहीं देखती हैं, वे पिता ए",
+    "english": "Those women who do good to their husbands and behave in a friendly manner and do not see the man even in their dreams, are the fathers.",
+    "Gujarati": "જે સ્ત્રીઓ પોતાના પતિનું ભલું કરે છે અને મૈત્રીપૂર્ણ વર્તન કરે છે અને સપનામાં પણ પુરુષને જોતી નથી તે પિતા છે"
+  },
+  {
+    "id": 17,
+    "dohe": "धरम सदन संतति चरित, कुल कीरति कुल रीति। \n\nसबहिं बिगारति नारि इक, करि पर नर सों प्रीति॥ ",
+    "meaning": "पराए पुरुष से प्रेम कर अकेली स्त्री ही धर्म, ग्रह, संतान का चरित्र, वंश, यश और कुल रीति इन सबको बिगाड़ देती है।",
+    "english": "By loving another man, a single woman spoils the religion, the planet, the character of the child, the lineage, the fame and the family tradition. ",
+    "Gujarati": "બીજા પુરૂષને પ્રેમ કરીને, એકલી સ્ત્રી ધર્મ, ગ્રહ, બાળકનું પાત્ર, વંશ, કીર્તિ અને કુટુંબ પરંપરાને બગાડે છે."
+  },
+  {
+    "id": 18,
+    "dohe": "रत्नावलि पति राग रंगि, दै विराग में आगि। \n\nउमा रमा बड़ भगिनी, नित पति पद अनुरागि॥ ",
+    "meaning": "तू पति के प्रेम- रंग में रंग और वैराग्य में आग लगा दे। भगवती पार्वती और लक्ष्मी भी पति चरणों के प्रेम में रंग कर ही बड़ी भाग्यशालिनी कहलाती हैं।",
+    "english": "You add color to your husband's love and set fire to his detachment. Goddess Parvati and Lakshmi are also said to be very fortunate by being imbued with the love of their husband's feet.",
+    "Gujarati": "તમે તમારા પતિના પ્રેમમાં રંગ ઉમેરો અને તેની ટુકડીમાં આગ લગાડો. દેવી પાર્વતી અને લક્ષ્મી પણ તેમના પતિના ચરણોના પ્રેમથી લીન થઈને ખૂબ ભાગ્યશાળી કહેવાય છે."
+  },
+  {
+    "id": 19,
+    "dohe": "फूली फलहिं इतराइ खल, जग निदरहिं सतराय। \n\nसाधु फूलि फलि नइ रहें, सब सों नईं बतराय॥ ",
+    "meaning": "दुष्ट पुरुष फलने-फूलने पर अर्थात् धन-धान्य की वृद्धि होने पर इतराने लगते हैं और सबसे विरोध कर जगत् की निंदा करने लगते हैं किंतु सज्जन विनम्र होकर रहते हैं और सबसे विनयी बनकर वार्ता करते हैं।\n\n",
+    "english": "Wicked people start boasting when they prosper i.e. when their wealth increases and they start opposing everyone and criticizing the world, but the good ones remain humble and talk to everyone politely.",
+    "Gujarati": "દુષ્ટ લોકો જ્યારે સમૃદ્ધ થાય છે એટલે કે જ્યારે તેમની સંપત્તિ વધે છે અને તેઓ બધાનો વિરોધ કરવા લાગે છે અને વિશ્વની ટીકા કરવા લાગે છે, પરંતુ સારા લોકો નમ્ર રહે છે અને દરેક સાથે નમ્રતાથી વાત કરે છે."
+  },
+  {
+    "id": 20,
+    "dohe": "कर गहि लाए नाथ तुम, वादन बहु बजवाय। \n\nपदहु न परसाए तजत, रत्नावलिही जगाय॥ ",
+    "meaning": "हे नाथ! आप अनेक प्रकार के बाजे बजवाकर और मेरा कर ग्रहण कर लाए थे, परंतु आपने मुझे तजकर जाते समय जगाकर पैर भी न छुवाए।",
+    "english": "Hey Nath! You had brought me by playing various musical instruments and had accepted my taxes, but you did not even touch my feet by waking me up while leaving.",
+    "Gujarati": "હે નાથ ! તમે મને વિવિધ વાદ્યો વગાડીને લાવ્યા હતા અને મારો કર સ્વીકાર કર્યો હતો, પણ તમે જતી વખતે મને જગાડીને મારા પગને સ્પર્શ પણ કર્યો ન હતો."
+  },
+  {
+    "id": 21,
+    "dohe": "गुरु सखी बांधव भृत्य जन, जथा जोग गुनि चित्त। \n\nरतन इनहिं सादर सदा, बरतहु वितरहु वित्त॥ ",
+    "meaning": "गुरु, मित्र, नातेदार और सेवकों को चित्त में यथायोग्य विचार कर इनके साथ आदर का व्यवहार करो और धन दो।",
+    "english": "Consider your guru, friends, relatives and servants as they deserve and treat them with respect and give them money.",
+    "Gujarati": "તમારા ગુરુ, મિત્રો, સંબંધીઓ અને સેવકોને તેઓ લાયક ગણો અને તેમની સાથે આદરપૂર્વક વર્તે અને તેમને પૈસા આપો."
+  },
+  {
+    "id": 22,
+    "dohe": "अस करनी करि तू रतन, सुजन सराहें तोइ। \n\nतुव जीवन लखि मुद लहैं, मरैं सुधि रोइ॥ ",
+    "meaning": "हे मन! तू ऐसे काम कर, जिससे भले आदमी तेरी प्रशंसा करें तथा तेरे जीवन को देखकर प्रसन्न हों और तेरी मृत्यु के पश्चात रो-रो कर तेरी याद करें।",
+    "english": "O mind! You should do such things that good people will praise you and be happy after seeing your life and remember you with tears after your death.",
+    "Gujarati": "ઓ મન! તમારે એવા કામ કરવા જોઈએ કે સારા લોકો તમારા વખાણ કરે અને તમારું જીવન જોઈને ખુશ થાય અને તમારા મૃત્યુ પછી તમને આંસુઓ સાથે યાદ કરે."
+  },
+  {
+    "id": 23,
+    "dohe": "रतनावलि नइ चलि सदा, नइ सुभाइ बतराइ। \n\nनारि प्रशंसा नइ रहैं, नित नूतन अधिकाइ॥ ",
+    "meaning": "सर्वदा नम्रता का आचरण करना चाहिए और नम्र्तायुक्त होकर वार्तालाप करना चाहिए। स्त्री की प्रशंसा विनम्रता में ही है, जिससे नित्यप्रति अधिक नूतनता का आभास होता रहे।",
+    "english": "One should always behave politely and talk politely. The praise of a woman lies in her humility, which makes her feel more new every day.",
+    "Gujarati": "વ્યક્તિએ હંમેશા નમ્રતાથી વર્તવું જોઈએ અને નમ્રતાથી વાત કરવી જોઈએ. સ્ત્રીની પ્રશંસા તેની નમ્રતામાં રહેલી છે, જે તેને દરરોજ વધુ નવીનતા અનુભવે છે."
+  },
+  {
+    "id": 24,
+    "dohe": "नाथ रहौंगी मौन हों, धारहू पिय जिय तोष। \n\nकबहूँ न देउँ उराहनौ, देउँ कबहूँ ना दोष॥ ",
+    "meaning": "हे नाथ! मैं अब मौन रहूँगी, अतः हे प्रिय! मन में संतोष धारण कीजिए। मैं आपको उपालंभ नहीं दूँगी और ना कभी आपको किसी बात के लिए दोष दूँगी।",
+    "english": "Hey Nath! I will remain silent now, so oh dear! Have contentment in your mind. I will not give you any credit nor will I ever blame you for anything.",
+    "Gujarati": "હે નાથ ! હું હવે મૌન રહીશ, તો હે પ્રિય! મનમાં સંતોષ રાખો. હું તમને કોઈ શ્રેય આપીશ નહીં કે હું તમને કોઈ પણ વસ્તુ માટે દોષી ઠેરવીશ નહીં."
+  },
+  {
+    "id": 25,
+    "dohe": "उदार पाक करपाक तिय, रतनावलि गुन दोय। \n\nसील सनेह समेत तौ, सुरभित सुबरन होय॥",
+    "meaning": "जो स्त्री उत्तम संतति की जन्मदात्री होने के साथ ही उत्तम रसोई में निपुण और शील स्नेह से युक्त है, वह स्वर्ण में सुगंध जैसे योगवाली होती है।",
+    "english": "The woman who, besides being the giver of a good child, is skilled in a good kitchen and is full of modesty and love, she is like the fragrance of gold.",
+    "Gujarati": "જે સ્ત્રી સારા બાળકની દાતા હોવા ઉપરાંત સારા રસોડામાં કુશળ છે અને નમ્રતા અને પ્રેમથી ભરેલી છે, તે સોનાની સુગંધ સમાન છે."
+  },
+  {
+    "id": 26,
+    "dohe": "रतन न पर दूषन उगटि, आपन दोष निवारि। \n\nतोहि लखें निर्दोष वे, दें निज दोष विसारि॥ ",
+    "meaning": "तू औरों के दोषों का उद्घाटन मत कर। केवल अपने दोषों का निराकरण कर, वे जब तुझे निर्दोष देखेंगे तो अपने दोषों का परित्याग कर देंगे।",
+    "english": "Don't reveal the faults of others. Only by removing your faults, when they see you innocent, they will abandon their faults.",
+    "Gujarati": "બીજાના દોષો જાહેર ન કરો. ફક્ત તમારા દોષો દૂર કરીને, જ્યારે તેઓ તમને નિર્દોષ જોશે, ત્યારે તેઓ તેમના દોષોનો ત્યાગ કરશે."
+  },
+  {
+    "id": 27,
+    "dohe": "विपति कसौटी पै विमल, जासु चरित दुति होय। \n\nजगत सराहन जोग तिय, रतन सती है सोय॥ ",
+    "meaning": "जिसके चरित्र की कांति विपत्ति रूपी कसौटी पर निर्मल उतरती है, जगत् के सभी लोग उसकी प्रशंसा करते हैं वह सती पतिव्रता है।",
+    "english": "The one whose character passes the test of adversity unscathed and is praised by all the people of the world, is a virtuous person.",
+    "Gujarati": "જેનું પાત્ર પ્રતિકૂળતાની કસોટીમાં સહીસલામત પાસ થાય છે અને વિશ્વના તમામ લોકો દ્વારા તેની પ્રશંસા થાય છે, તે સદ્ગુણી વ્યક્તિ છે."
+  },
+  {
+    "id": 28,
+    "dohe": "सात पैग जा संग भरे, ता संग कीजै प्रीति। \n\nसब विधि ताहि निबाहिये, रतन वेद की रीति॥",
+    "meaning": "जिसके साथ सात पग चली थीं, उस पति के साथ प्रेम करो। इस वेद की रीति का भली प्रकार निर्वाह करना चाहिए।",
+    "english": "Make love with the husband with whom you walked seven steps. The rituals of this Veda should be followed properly.",
+    "Gujarati": "તમે જેની સાથે સાત ડગલાં ચાલ્યા છો તેની સાથે પ્રેમ કરો. આ વેદની વિધિઓનું યોગ્ય રીતે પાલન કરવું જોઈએ."
+  },
+  {
+    "id": 29,
+    "dohe": "वालहि लालहु अस रतन, जो न औगनी होइ। \n\nदिन-दिन गुन गुरुता गहै, सांचो लालन सोइ॥ ",
+    "meaning": "बच्चे का लालन-पालन इस प्रकार से करो कि वह अवगुणी न बन जाए। सच्चा लालन-पालन वही है कि बच्चा अधिकाधिक गुणों को ग्रहण करता है।",
+    "english": "Bring up the child in such a way that he does not become defective. True parenting is that the child imbibes more and more qualities.",
+    "Gujarati": "બાળકને એવી રીતે ઉછેરવું કે તે ખામીયુક્ત ન બને. બાળક વધુ ને વધુ ગુણો આત્મસાત કરે એ જ સાચું વાલીપણું છે."
+  },
+  {
+    "id": 30,
+    "dohe": "जुबक जनक जामात सुत, ससुर दिवर अरु भ्रात। \n\nइनहूं की एकांत बहु, कामिनी सुनि जनि बात॥",
+    "meaning": "स्त्री को चाहिए कि वह पूर्ण एकांत में युवा पिता, जामाता, बेटा, ससुर, देवर, और भाई की भी अधिक बातें न सुने। अकेले में इनके साथ बहुत देर बैठना भी नहीं चाहिए।\n\n",
+    "english": "A woman should stay in complete solitude and not listen too much to the young father, son-in-law, son, father-in-law, brother-in-law and brother. One should not sit alone with them for too long.",
+    "Gujarati": "સ્ત્રીએ સંપૂર્ણ એકાંતમાં રહેવું જોઈએ અને યુવાન પિતા, જમાઈ, પુત્ર, સસરા, વહુ અને ભાઈનું વધુ પડતું સાંભળવું જોઈએ નહીં. તેમની સાથે લાંબા સમય સુધી એકલા ન બેસવું જોઈએ."
+  },
+  {
+    "id": 31,
+    "dohe": "धरि धुवाइ रतनावलि, निज पिय पाट पुरान। \n\nजथा समय जिन दै करहु, करमचारि सनमान॥  ",
+    "meaning": "अपने पति के पुराने कपड़ो को धुलवाकर रक्खा करो और उस यथासमय कर्मचारियों को प्रदान कर उन्हें सम्मानित करो।",
+    "english": "Keep your husband's old clothes washed and kept. At the right time, give them to the employees and honor them.",
+    "gujarati": "તમારા પતિના જૂના કપડાં ધોઈને રાખો. યોગ્ય સમયે, તે કર્મચારીઓને આપો અને તેમનું સન્માન કરો."
+  },
+  {
+    "id": 32,
+    "dohe": "रतन हास पर घर गमन, खेल देह सिंगार। \n\nतज उतसवन विलोकिवो, लहि वियोग भरतार॥ ",
+    "meaning": "पति वियोग होने पर हास परिहास, परग्रह गमन, क्रीड़ा, देह का शृंगार, उत्सवों में गाना आदि सब बातों का परित्याग कर दो।",
+    "english": "In the absence of your husband, give up laughter and jesting, visiting other houses, play, bodily adornment, and participating in festivals.",
+    "gujarati": "પતિના વિયોગમાં હાસ્ય વિનોદ, અન્ય ઘરોમાં જવું, રમકડાં, શરીરના શૃંગાર અને ઉત્સવોમાં ભાગ લેવા જેવી બધી વસ્તુઓનો ત્યાગ કરો."
+  },
+  {
+    "id": 33,
+    "dohe": "पति पितु जननी बंधु हित, कुटुम परोसि विचारि। \n\nजथा जोग आदर करे, सो कुलवंती नारि॥ ",
+    "meaning": "वही स्त्री कुलीन होती है जो पति, पिता, माता, कुटुंब और पड़ोसी का विचारपूर्वक आदर करती है।",
+    "english": "A woman is considered noble if she thoughtfully respects her husband, father, mother, family, and neighbors.",
+    "gujarati": "જે સ્ત્રી પતિ, પિતા, માતા, કુટુંબ અને પાડોશીઓનો વિચારીને સન્માન કરે છે તે જ કુલીન ગણાય છે."
+  },
+  {
+    "id": 34,
+    "dohe": "पति के जीवन निधन हू, पति अनिरुचत काम। \n\nकरति न सो जग जस लहति, पावति गति अभिराम॥ ",
+    "meaning": "पति के जीवन काल में या मृत्यु के उपरांत जो स्त्री उनकी इच्छा के प्रतिकूल काम नहीं करती है, वही संसार में यश और सुंदर गति को प्राप्त करती है।",
+    "english": "A woman who does not act against her husband's wishes, whether during his lifetime or after his death, attains fame and a beautiful state in the world.",
+    "gujarati": "પતિના જીવનકાળમાં અથવા મૃત્યુ પછી જે સ્ત્રી તેમના ઇચ્છા વિરુદ્ધ કાર્ય કરતી નથી, તે જ વિશ્વમાં યશ અને સુંદર ગતિ પ્રાપ્ત કરે છે."
+  },
+  {
+    "id": 35,
+    "dohe": "बन बाधिनी आमिष भकति, भूखी घास न खाइ। \nरतन सती तिमी दुःख सहति, सुख हित अघ न कमाइ॥",
+    "meaning": "व्याघ्री वन में मांस खाती है। वह भूख से व्याकुल होकर भी घास नहीं खाती। इसी प्रकार पतिव्रता स्त्री दुःख सह लेती है किंतु सुख के लिए पाप का संग्रह नहीं करती है।",
+    "english": "A tigress in the forest feeds on meat, never eating grass out of hunger. Similarly, a devoted wife endures suffering but does not accumulate sins for the sake of happiness.",
+    "Gujarati": "વ્યાઘ્રી વન માં માંસ ખાય છે. તે ભૂખથી વ્યાકુલ થઈને ઘાસ નથી ખાય. આ રીતે પતિવ્રતાવતી સ્ત્રી દુઃખ સહે છે પરંતુ સુખ માટે પાપનો સંગ્રહ નહીં કરે છે."
+  },
+  {
+    "id": 36,
+    "dohe": "घर-घर घुमनि नारि सों, रत्नावलि मति बोलि। \nइनसे प्रीति न जोरि बहु, जनि गृह भेद नु खोलि॥",
+    "meaning": "घर-घर में घूमने वाली स्त्री से थोड़ा बोलो, इस प्रकार की स्त्रियों से बहुत प्रीति न करो और अपने घर के गुप्त रहस्यों को न खोलो।",
+    "english": "Speak a little with the woman who roams from house to house, do not develop strong affection for such women, and do not reveal the secrets of your home.",
+    "Gujarati": "ઘર-ઘર ઘૂમવાળી સ્ત્રીથી થોડી વાત કરો, આ રીતેની સ્ત્રીઓથી ખૂબ પ્રેમ ન કરો અને તમારા ઘરના ગુપ્ત રહસ્યોને ખોલવો નહીં."
+  },
+  {
+    "id": 37,
+    "dohe": "जो तिय संतति लोभ बस, करति अपन नर भोग। \nरतनावलि नरकहि परति, जग निदरत सब लोग॥",
+    "meaning": "जो स्त्री संतान की लालचना से प्रेरित पुरुष से संबंध बनाती है, वह नरक में गिरती है और सभी लोग उसकी निन्दा करते हैं।",
+    "english": "A woman who engages with a man out of greed for offspring suffers in hell, and the world condemns her.",
+    "Gujarati": "જે સ્ત્રી સંતાન ની લોભને આધારિત મનુષ્ય સાથે સંબંધ બનાવે છે, તે નરકમાં પડી જાય છે અને જગત તેની નિંદા કરે છે."
+  },
+  {
+    "id": 38,
+    "dohe": "करमचारि जन सों भली, जथा काज बतरानि। \nबहु बतानि रतनावलि, गुनि अकाज की खानि॥",
+    "meaning": "नौकरों से आवश्कतानुसार ही वार्तालाप करने में भलाई है, इनसे बहुत बोलना बुराई की समझना चाहिए।",
+    "english": "It is good to communicate with servants as necessary for work; excessive talk with them should be understood as harmful.",
+    "Gujarati": "નોકરીઓ સાથે આવશ્યકતાને અનુસરી વાર્તાલાપ કરવું ભલું છે; તેમના સાથે બહુ વાર બોલવું દોષનો માનવવું જોઈએ."
+  },
+  {
+    "id": 39,
+    "dohe": "जे निज जे पर भेद इमि, लघु जन करत विचार। \nचरित उदारन को रतन, सकल जगत परिवार॥",
+    "meaning": "यह अपना है, यह पराया है। इस प्रकार का विचार तुच्छ व्यक्ति करते हैं, उदार चरित वाले तो सारी पृथ्वी को ही अपना कुटुंब समझते हैं।",
+    "english": "Those who differentiate between mine and others, small-minded people contemplate. Generous-hearted ones consider the entire world as their family.",
+    "Gujarati": "જે આપણું અને જે પરાયું માને છે, તે લઘુ મનુષ્ય વિચારે છે. ઉદાર ચરિત્ર વાળા વ્યક્તિઓ તો આપણી વિશ્વને પરિવાર માને છે."
+  },
+  {
+    "id": 40,
+    "dohe": "वनिक फेरुआ भिछु कण, जनि कबहुं पतिआय। \nरत्नावलि जेइ रूप धरि, ठगजन ठगत भ्रमाय॥",
+    "meaning": "वणिक (व्यापारी), फेरी लगाने वाले और भिखारियों के बारे में कभी विश्वास मत करो क्योंकि ठग लोग रत्नावलि (तुलसीदास जी) के जैसे रूप धारण करके भ्रम में डालकर लोगों को ठगते हैं।",
+    "english": "Do not trust merchants, street vendors, or beggars because impostors deceive people by assuming appearances like Ratnavali (Tulsidas), causing confusion.",
+    "Gujarati": "વણિક (વ્યાપારી), ફેરી લગાનારા અને ભિખારીઓ પર ક્રિયા માટે વિશ્વાસ કરવો નહીં કરવો, કારણ કે ઠગ લોકો રત્નાવલિ (તુલસીદાસ) જેવી રૂપો ધારણ કરીને ભ્રમમાં મૂકે લોકોને ઠગી લે છે."
+  },
+  {
+    "id": 41,
+    "dohe": "सुभहु वचन अप्रकृति गरल, रतन प्रकृति के साथ। \nज्यों मो कहं पति प्रेम संग, ईस प्रेम की गाथ॥",
+    "meaning": "प्रकृति के साथ अप्रकृति गर्वित उत्तम वचन भी विष तुल्य हो जाता है। जैसे मैंने पति के साथ प्रेम संग कहा है, इस प्रेम की कहानी।",
+    "english": "Even excellent words alongside nature are like poison. Just as I spoke in love with my husband, this is the tale of that love.",
+    "Gujarati": "સવારે વચન અપ્રકૃતિ ગર્વિત છે, તે પ્રકૃતિનાં સાથે. મારી તરફથી મને જે પતિ સાથે પ્રેમ છે, તે પ્રેમની ગાથ."
+  },
+  {
+    "id": 42,
+    "dohe": "धरम सदन संतति चरित, कुल कीरति कुल रीति। \nसबहिं बिगारति नारि इक, करि पर नर सों प्रीति॥",
+    "meaning": "स्त्री को एक मात्र पुरुष से प्रेम करके सब धर्म, गृह, संतान के चरित्र, कुल, यश और कुल रीति को बिगाड़ देती है।",
+    "english": "By loving a stranger man, a woman ruins all her family's values, reputation, and customs.",
+    "Gujarati": "સ્ત્રીને બીજા પુરુષને પ્રેમ કરીને તે બધા ધર્મ, ઘર, પોતાના સંતાનનો ચરિત્ર, વંશ, યશ અને કુલને બિગાડે છે."
+  },
+  {
+    "id": 43,
+    "dohe": "रत्नावलि पति राग रंगि, दै विराग में आगि। \nउमा रमा बड़ भगिनी, नित पति पद अनुरागि॥",
+    "meaning": "तू पति के प्रेम-रंग में रंग और वैराग्य में आग लगा दे। भगवती उमा और रमा, जो की बड़ी भगिनी हैं, सदा पति के पादों में प्रेम करती रहती हैं।",
+    "english": "O Ratanavali, immerse yourself in the colors of love for your husband and kindle the fire of renunciation. Uma and Rama, great sisters, constantly cherish love for their husband's feet.",
+    "Gujarati": "હે રત્નાવલી, તમે તમારા પતિના પ્રેમના રંગમાં વિશેષ બનો અને વૈરાગ્યમાં આગ લાવો. ઉમા અને રમા, મોટી બહેનો, હંમેશા પતિના પાદોમાં પ્રેમ રાખે છે."
+  },
+  {
+    "id": 44,
+    "dohe": "फूली फलहिं इतराइ खल, जग निदरहिं सतराय। \nसाधु फूलि फलि नइ रहें, सब सों नईं बतराय॥",
+    "meaning": "दुष्ट पुरुष धन-धान्य की वृद्धि होने पर इतराते हैं और सबसे विरोध कर जगत् की निंदा करते हैं, किंतु सज्जन विनम्र बनकर रहते हैं और सबसे विनयी रहकर वार्ता करते हैं।",
+    "english": "When wicked people prosper and wealth and crops flourish, they become arrogant and criticize the world. But the righteous remain humble, interact with everyone respectfully.",
+    "Gujarati": "દુષ્ટ લોકો ધન-ધાન્યની વૃદ્ધિ થતી હોવાથી હંમેશા વિરોધ કરે છે અને વિશ્વને નિંદા કરે છે, પરંતુ સજ્જન વિનમ્ર બનીને રહે છે અને દયાળુ બનીને બધા સાથે સાંભળે છે."
+  },
+  {
+    "id": 45,
+    "dohe": "कर गहि लाए नाथ तुम, वादन बहु बजवाय। \nपदहु न परसाए तजत, रत्नावलिही जगाय॥",
+    "meaning": "हे नाथ! आपने अनेक प्रकार के बाजे बजाकर और मेरा काम ग्रहण किया, परंतु आपने मुझे तजकर जाने के समय जागरूक रहकर भी पैर छूने नहीं दिए।",
+    "english": "O Lord! You played various instruments and accepted my work, but when leaving, you did not touch my feet even while being alert.",
+    "gujarati": "હે નાથ! તમે વિવિધ વાદ્યો બજાવી અને મારું કાર્ય સ્વીકાર્યું, પરંતુ જતે જાવા અને જાગૃત રહીને પણ તમે મારા પાગ છૂટ્યા નથી."
+  },
+  {
+    "id": 46,
+    "dohe": "गुरु सखी बांधव भृत्य जन, जथा जोग गुनि चित्त। \nरतन इनहिं सादर सदा, बरतहु वितरहु वित्त॥",
+    "meaning": "गुरु, मित्र, नातेदार और सेवकों को चित्त में यथायोग्य विचार कर इनके साथ आदर का व्यवहार करो और धन दो।",
+    "english": "O mind! Treat the guru, friends, relatives, and servants with appropriate thoughts, always offer respect to them and provide wealth.",
+    "gujarati": "ગુરુ, મિત્ર, નાતેદાર અને સેવકોને તમારા ચિત્તમાં યોગ્ય વિચારથી સાદર કરો અને તેમને આદર આપો અને ધન આપો."
+  },
+  {
+    "id": 47,
+    "dohe": "अस करनी करि तू रतन, सुजन सराहें तोइ। \nतुव जीवन लखि मुद लहैं, मरैं सुधि रोइ॥",
+    "meaning": "हे मन! तू ऐसे काम कर, जिससे भले आदमी तेरी प्रशंसा करें और जिससे तेरे जीवन को देखकर लोग प्रसन्न हों, और तेरी मृत्यु के बाद मैं रो-रो कर तुझे याद करूं।",
+    "english": "Perform such actions, O mind, that wise people praise you. May people rejoice seeing your life, and after your death, may I weep remembering you.",
+    "gujarati": "હે મન! તું એવા કામ કર, જેથી બુદ્ધિમાન લોક તમને પ્રશંસા કરે. લોકો તમારા જીવનને જોઈને આનંદિત થાય અને તમારા મૃત્યુ પછી હું રોતી જાઊં છું જેમને યાદ કરીને."
+  },
+  {
+    "id": 48,
+    "dohe": "रतनावलि नइ चलि सदा, नइ सुभाइ बतराइ। \nनारि प्रशंसा नइ रहैं, नित नूतन अधिकाइ॥",
+    "meaning": "सर्वदा नम्रता का आचरण करना चाहिए और नम्रतापूर्वक बातचीत करना चाहिए। स्त्री की प्रशंसा विनम्रता में ही है, जिससे नित्यप्रति अधिक नवीनता का अनुभव होता रहे।",
+    "english": "Always maintain humility and engage in conversations with humility. Praising women should be done with humility, fostering a continual experience of novelty.",
+    "gujarati": "હંમેશા વિનમ્રતા રાખો અને વિનમ્રતાથી વાતચીત કરો. સ્ત્રીઓનું પ્રશંસા કરવું પણ વિનમ્રતાથી થવું જોઈએ, જેથી નવીનતાનું અનુભવ સદા જાળવામાં આવે છે."
+  },
+  {
+    "id": 49,
+    "dohe": "वालहि लालहु अस रतन, जो न औगनी होइ। \nदिन-दिन गुन गुरुता गहै, सांचो लालन सोइ॥",
+    "meaning": "बच्चे का लालन-पालन इस प्रकार से करो कि वह अवगुणी न बन जाए। सच्चा लालन-पालन वही है कि बच्चा अधिकाधिक गुणों को ग्रहण करता है।",
+    "english": "Raise the child in such a way, O precious one, that he does not become flawed. \nEvery day, imbibe the virtues of the Guru; this is true nurturing indeed.",
+    "gujarati": "બાળકનું પાળન-પોષણ આ રીતે કરો કે તે દોષમાં ન પડે. દિવસ-દિવસ ગુરુના ગુણોને ગ્રહણ કરવું, આ સાચું પાળન-પોષણ છે."
+  },
+  {
+    "id": 50,
+    "dohe": "जुबक जनक जामात सुत, ससुर दिवर अरु भ्रात। \nइनहूं की एकांत बहु, कामिनी सुनि जनि बात॥",
+    "meaning": "स्त्री को चाहिए कि वह पूर्ण एकांत में युवा पिता, जामाता, बेटा, ससुर, देवर, और भाई की भी अधिक बातें न सुने। अकेले में इनके साथ बहुत देर बैठना भी नहीं चाहिए।",
+    "english": "A woman should avoid listening to lengthy conversations in private with her father-in-law, son-in-law, son, father-in-law's brothers, and brothers. She should not spend prolonged time alone with them.",
+    "gujarati": "સ્ત્રી ને તેવી રીતે એકાંત સમયમાં યુવા પિતા, જામાતા, પુત્ર, સસુર, દેવર અને ભાઈને વધુ વાતો સાંભળવી જોઈએ નહીં. તે વધુ સમય તેમની સાથે એકલે બેઠવું પણ નહીં જોઈએ."
+  },
+  {
+    "id": 51,
+    "dohe": "धरि धुवाइ रतनावलि, निज पिय पाट पुरान। \nजथा समय जिन दै करहु, करमचारि सनमान॥",
+    "meaning": "अपने पति के पुराने कपड़े धोकर रखो और जब भी समय हो, तो कर्मचारियों को सम्मान दो।",
+    "english": "Wash and keep your husband's old clothes, and honor the servants when appropriate.",
+    "gujarati": "આપણા પતિના જૂના વસ્ત્રો ધોવાથી રાખો અને જ્યાં સમય આવે ત્યાં કર્મચારીઓને સન્માન કરો."
+  },
+  {
+    "id": 52,
+    "dohe": "मात पिता सासु ससुर, ननद नाथ कटु बैन। \n\nभेषज सैम रतनावलि, पचत करत तनु चैन॥ ",
+    "meaning": "माता-पिता, सास-ससुर, ननद और पति के कटु वचन कड़वी औषधि के समान परिणाम में हितकारक होते हैं।",
+    "english": "The harsh words of parents, mother-in-law, sister-in-law and husband are as beneficial in results as bitter medicine.",
+    "Gujarati": "માતા-પિતા, સાસુ, વહુ અને પતિની કઠોર વાણી કડવી દવાની જેમ પરિણામમાં લાભકારી છે."
+  },
+  {
+    "id": 53,
+    "dohe": "रतन भाव भरि भूरि जिमि, कवि पद भरत समास। \n\nतिमी उचरहु लघु पद करहि, अरथ गंभीर विकास॥ ",
+    "meaning": "जिस प्रकार कवि लोग बहुत सा बहाव भर कर समास वाले पदों का प्रयोग करते हैं, उसी प्रकार तुम भी छोटे-छोटे पदों का उच्चारण करके गंभीर अर्थ का विकास करो।\n\n",
+    "english": "Just as poets use compound words in large numbers, in the same way you too develop serious meaning by pronouncing small words.",
+    "Gujarati": "જેમ કવિઓ સંયુક્ત શબ્દોનો ઉપયોગ મોટી સંખ્યામાં કરે છે, તેવી જ રીતે તમે પણ નાના શબ્દો ઉચ્ચારીને ગંભીર અર્થ વિકસાવો છો"
+  },
+  {
+    "id": 54,
+    "dohe": "करहु दुखी जनि काहु को, निदरहु काहु न कोय। \nको जाने रत्नावली, आपनि का गति होय॥",
+    "meaning": "कभी किसी को दुःखी मत करो और न किसी का निरादर करो, कौन जानता है कि अपनी क्या गति आगे होगी।",
+    "english": "Do not make anyone sad, nor disrespect anyone. Who knows what one's own fate will be.",
+    "Gujarati": "કોઈને દુઃખી ના કરો અને કોઈનો અપમાન ના કરો. કોને ખબર છે કે પોતાની ક્યા ગતિ થશે."
+  },
+  {
+    "id": 55,
+    "dohe": "अनृत वचन माया रचन, रतनावलि बिसारी। \nमाया अनरित कारने, सति तजि त्रिपुरारि॥",
+    "meaning": "झूठ बोलना और कपट करना छोड़ दो। भगवान ने इन दोनों कारणों से सति का परित्याग कर दिया था।",
+    "english": "Give up speaking falsehoods and practicing deceit. Lord Shiva abandoned Sati due to these reasons.",
+    "Gujarati": "મોટું અપમાન કરવા અને કપટથી કાર્ય કરવાનું છોડી દો. ભગવાન શિવે આ બદલે સતીને છોડી દિધું."
+  },
+  {
+    "id": 54,
+    "dohe": "हाय सहज ही हों कही, लह्यो बोध हिरदेस। \nहों रत्नावली जँचि गई, पिय हिय काँच विसेस॥",
+    "meaning": "मैंने अपनी बात स्वाभाविक ढंग से कही थी, किंतु हृदयेश (तुलसीदास जी) ने इससे ज्ञान प्राप्त कर लिया। उस ज्ञान के प्रभाव से मैं उनके हृदय में काँच के समान प्रतीत हुई।",
+    "english": "I naturally spoke my mind, but Tulsi Das gained wisdom from it. Because of that wisdom, I appeared as precious as glass in his heart.",
+    "Gujarati": "હું સ્વાભાવિક રીતે મારી બાત કહી હતી, પરંતુ તુલસીદાસજીએ તેમને જ્ઞાન મેળવ્યો. તે જ્ઞાનના પ્રભાવથી મેં તેમના હૃદયમાં કાચના જેવું માની આવ્યું."
+  },
+  {
+    "id": 55,
+    "dohe": "पति सेवति रत्नावली, सकुची धरि मन लाज। \nसकुच गई कछु पिय गए, सज्यो न सेवा साज॥",
+    "meaning": "मैं मन में लज्जा करती हुई पति की सेवा संकोच से करती। जब कुछ संकोच दूर हुआ, तब मेरे पति (श्री तुलसीदास) चले गए इसलिए मेरा पति-सेवा का साज सज न सका।",
+    "english": "With a shy heart, I served my husband, holding back somewhat. When hesitations disappeared, my husband (Shri Tulsi Das) departed, so my service could not be properly adorned.",
+    "Gujarati": "હું મને લાજવી દર્દી હતી, પતિને થોડા સંકોચે સેવા કરી. જ્યારે સંકોચ દૂર થઇ ગયો ત્યારે મારા પતિ (શ્રી તુલસીદાસ) ચલા ગયા, એવું કે મારી સેવા સારવી ના રહી શક્યું."
+  },
+  {
+    "id": 56,
+    "dohe": "जे तिय पति हित आचरहिं, रहि पति चित अनुकूल। \n\nलखहिं न सपनेहूँ पर पुरुष, ते तारहिं दोउ कूल॥ ",
+    "meaning": "जो नारियों पति की भलाई करती हुई उनके अनुकूल आचरण करती हैं और स्वप्न में भी पर पुरुष को नहीं देखती हैं, वे पिता ए",
+    "english": "Those women who do good to their husbands and behave in a friendly manner and do not see the man even in their dreams, are the fathers.",
+    "Gujarati": "જે સ્ત્રીઓ પોતાના પતિનું ભલું કરે છે અને મૈત્રીપૂર્ણ વર્તન કરે છે અને સપનામાં પણ પુરુષને જોતી નથી તે પિતા છે"
+  },
+  {
+    "id": 57,
+    "dohe": "धरम सदन संतति चरित, कुल कीरति कुल रीति। \n\nसबहिं बिगारति नारि इक, करि पर नर सों प्रीति॥ ",
+    "meaning": "पराए पुरुष से प्रेम कर अकेली स्त्री ही धर्म, ग्रह, संतान का चरित्र, वंश, यश और कुल रीति इन सबको बिगाड़ देती है।",
+    "english": "By loving another man, a single woman spoils the religion, the planet, the character of the child, the lineage, the fame and the family tradition. ",
+    "Gujarati": "બીજા પુરૂષને પ્રેમ કરીને, એકલી સ્ત્રી ધર્મ, ગ્રહ, બાળકનું પાત્ર, વંશ, કીર્તિ અને કુટુંબ પરંપરાને બગાડે છે."
+  },
+  {
+    "id": 58,
+    "dohe": "रत्नावलि पति राग रंगि, दै विराग में आगि। \n\nउमा रमा बड़ भगिनी, नित पति पद अनुरागि॥ ",
+    "meaning": "तू पति के प्रेम- रंग में रंग और वैराग्य में आग लगा दे। भगवती पार्वती और लक्ष्मी भी पति चरणों के प्रेम में रंग कर ही बड़ी भाग्यशालिनी कहलाती हैं।",
+    "english": "You add color to your husband's love and set fire to his detachment. Goddess Parvati and Lakshmi are also said to be very fortunate by being imbued with the love of their husband's feet.",
+    "Gujarati": "તમે તમારા પતિના પ્રેમમાં રંગ ઉમેરો અને તેની ટુકડીમાં આગ લગાડો. દેવી પાર્વતી અને લક્ષ્મી પણ તેમના પતિના ચરણોના પ્રેમથી લીન થઈને ખૂબ ભાગ્યશાળી કહેવાય છે."
+  },
+  {
+    "id": 59,
+    "dohe": "फूली फलहिं इतराइ खल, जग निदरहिं सतराय। \n\nसाधु फूलि फलि नइ रहें, सब सों नईं बतराय॥ ",
+    "meaning": "दुष्ट पुरुष फलने-फूलने पर अर्थात् धन-धान्य की वृद्धि होने पर इतराने लगते हैं और सबसे विरोध कर जगत् की निंदा करने लगते हैं किंतु सज्जन विनम्र होकर रहते हैं और सबसे विनयी बनकर वार्ता करते हैं।\n\n",
+    "english": "Wicked people start boasting when they prosper i.e. when their wealth increases and they start opposing everyone and criticizing the world, but the good ones remain humble and talk to everyone politely.",
+    "Gujarati": "દુષ્ટ લોકો જ્યારે સમૃદ્ધ થાય છે એટલે કે જ્યારે તેમની સંપત્તિ વધે છે અને તેઓ બધાનો વિરોધ કરવા લાગે છે અને વિશ્વની ટીકા કરવા લાગે છે, પરંતુ સારા લોકો નમ્ર રહે છે અને દરેક સાથે નમ્રતાથી વાત કરે છે."
+  },
+  {
+    "id": 61,
+    "dohe": "कर गहि लाए नाथ तुम, वादन बहु बजवाय। \n\nपदहु न परसाए तजत, रत्नावलिही जगाय॥ ",
+    "meaning": "हे नाथ! आप अनेक प्रकार के बाजे बजवाकर और मेरा कर ग्रहण कर लाए थे, परंतु आपने मुझे तजकर जाते समय जगाकर पैर भी न छुवाए।",
+    "english": "Hey Nath! You had brought me by playing various musical instruments and had accepted my taxes, but you did not even touch my feet by waking me up while leaving.",
+    "Gujarati": "હે નાથ ! તમે મને વિવિધ વાદ્યો વગાડીને લાવ્યા હતા અને મારો કર સ્વીકાર કર્યો હતો, પણ તમે જતી વખતે મને જગાડીને મારા પગને સ્પર્શ પણ કર્યો ન હતો."
+  },
+  {
+    "id": 62,
+    "dohe": "गुरु सखी बांधव भृत्य जन, जथा जोग गुनि चित्त। \n\nरतन इनहिं सादर सदा, बरतहु वितरहु वित्त॥ ",
+    "meaning": "गुरु, मित्र, नातेदार और सेवकों को चित्त में यथायोग्य विचार कर इनके साथ आदर का व्यवहार करो और धन दो।",
+    "english": "Consider your guru, friends, relatives and servants as they deserve and treat them with respect and give them money.",
+    "Gujarati": "તમારા ગુરુ, મિત્રો, સંબંધીઓ અને સેવકોને તેઓ લાયક ગણો અને તેમની સાથે આદરપૂર્વક વર્તે અને તેમને પૈસા આપો."
+  },
+  {
+    "id": 63,
+    "dohe": "अस करनी करि तू रतन, सुजन सराहें तोइ। \n\nतुव जीवन लखि मुद लहैं, मरैं सुधि रोइ॥ ",
+    "meaning": "हे मन! तू ऐसे काम कर, जिससे भले आदमी तेरी प्रशंसा करें तथा तेरे जीवन को देखकर प्रसन्न हों और तेरी मृत्यु के पश्चात रो-रो कर तेरी याद करें।",
+    "english": "O mind! You should do such things that good people will praise you and be happy after seeing your life and remember you with tears after your death.",
+    "Gujarati": "ઓ મન! તમારે એવા કામ કરવા જોઈએ કે સારા લોકો તમારા વખાણ કરે અને તમારું જીવન જોઈને ખુશ થાય અને તમારા મૃત્યુ પછી તમને આંસુઓ સાથે યાદ કરે."
+  },
+  {
+    "id": 64,
+    "dohe": "रतनावलि नइ चलि सदा, नइ सुभाइ बतराइ। \n\nनारि प्रशंसा नइ रहैं, नित नूतन अधिकाइ॥ ",
+    "meaning": "सर्वदा नम्रता का आचरण करना चाहिए और नम्र्तायुक्त होकर वार्तालाप करना चाहिए। स्त्री की प्रशंसा विनम्रता में ही है, जिससे नित्यप्रति अधिक नूतनता का आभास होता रहे।",
+    "english": "One should always behave politely and talk politely. The praise of a woman lies in her humility, which makes her feel more new every day.",
+    "Gujarati": "વ્યક્તિએ હંમેશા નમ્રતાથી વર્તવું જોઈએ અને નમ્રતાથી વાત કરવી જોઈએ. સ્ત્રીની પ્રશંસા તેની નમ્રતામાં રહેલી છે, જે તેને દરરોજ વધુ નવીનતા અનુભવે છે."
+  },
+  {
+    "id": 65,
+    "dohe": "नाथ रहौंगी मौन हों, धारहू पिय जिय तोष। \n\nकबहूँ न देउँ उराहनौ, देउँ कबहूँ ना दोष॥ ",
+    "meaning": "हे नाथ! मैं अब मौन रहूँगी, अतः हे प्रिय! मन में संतोष धारण कीजिए। मैं आपको उपालंभ नहीं दूँगी और ना कभी आपको किसी बात के लिए दोष दूँगी।",
+    "english": "Hey Nath! I will remain silent now, so oh dear! Have contentment in your mind. I will not give you any credit nor will I ever blame you for anything.",
+    "Gujarati": "હે નાથ ! હું હવે મૌન રહીશ, તો હે પ્રિય! મનમાં સંતોષ રાખો. હું તમને કોઈ શ્રેય આપીશ નહીં કે હું તમને કોઈ પણ વસ્તુ માટે દોષી ઠેરવીશ નહીં."
+  },
+  {
+    "id": 66,
+    "dohe": "उदार पाक करपाक तिय, रतनावलि गुन दोय। \n\nसील सनेह समेत तौ, सुरभित सुबरन होय॥",
+    "meaning": "जो स्त्री उत्तम संतति की जन्मदात्री होने के साथ ही उत्तम रसोई में निपुण और शील स्नेह से युक्त है, वह स्वर्ण में सुगंध जैसे योगवाली होती है।",
+    "english": "The woman who, besides being the giver of a good child, is skilled in a good kitchen and is full of modesty and love, she is like the fragrance of gold.",
+    "Gujarati": "જે સ્ત્રી સારા બાળકની દાતા હોવા ઉપરાંત સારા રસોડામાં કુશળ છે અને નમ્રતા અને પ્રેમથી ભરેલી છે, તે સોનાની સુગંધ સમાન છે."
+  },
+  {
+    "id": 67,
+    "dohe": "रतन न पर दूषन उगटि, आपन दोष निवारि। \n\nतोहि लखें निर्दोष वे, दें निज दोष विसारि॥ ",
+    "meaning": "तू औरों के दोषों का उद्घाटन मत कर। केवल अपने दोषों का निराकरण कर, वे जब तुझे निर्दोष देखेंगे तो अपने दोषों का परित्याग कर देंगे।",
+    "english": "Don't reveal the faults of others. Only by removing your faults, when they see you innocent, they will abandon their faults.",
+    "Gujarati": "બીજાના દોષો જાહેર ન કરો. ફક્ત તમારા દોષો દૂર કરીને, જ્યારે તેઓ તમને નિર્દોષ જોશે, ત્યારે તેઓ તેમના દોષોનો ત્યાગ કરશે."
+  },
+  {
+    "id": 68,
+    "dohe": "विपति कसौटी पै विमल, जासु चरित दुति होय। \n\nजगत सराहन जोग तिय, रतन सती है सोय॥ ",
+    "meaning": "जिसके चरित्र की कांति विपत्ति रूपी कसौटी पर निर्मल उतरती है, जगत् के सभी लोग उसकी प्रशंसा करते हैं वह सती पतिव्रता है।",
+    "english": "The one whose character passes the test of adversity unscathed and is praised by all the people of the world, is a virtuous person.",
+    "Gujarati": "જેનું પાત્ર પ્રતિકૂળતાની કસોટીમાં સહીસલામત પાસ થાય છે અને વિશ્વના તમામ લોકો દ્વારા તેની પ્રશંસા થાય છે, તે સદ્ગુણી વ્યક્તિ છે."
+  },
+  {
+    "id": 69,
+    "dohe": "सात पैग जा संग भरे, ता संग कीजै प्रीति। \n\nसब विधि ताहि निबाहिये, रतन वेद की रीति॥",
+    "meaning": "जिसके साथ सात पग चली थीं, उस पति के साथ प्रेम करो। इस वेद की रीति का भली प्रकार निर्वाह करना चाहिए।",
+    "english": "Make love with the husband with whom you walked seven steps. The rituals of this Veda should be followed properly.",
+    "Gujarati": "તમે જેની સાથે સાત ડગલાં ચાલ્યા છો તેની સાથે પ્રેમ કરો. આ વેદની વિધિઓનું યોગ્ય રીતે પાલન કરવું જોઈએ."
+  },
+  {
+    "id": 70,
+    "dohe": "वालहि लालहु अस रतन, जो न औगनी होइ। \n\nदिन-दिन गुन गुरुता गहै, सांचो लालन सोइ॥ ",
+    "meaning": "बच्चे का लालन-पालन इस प्रकार से करो कि वह अवगुणी न बन जाए। सच्चा लालन-पालन वही है कि बच्चा अधिकाधिक गुणों को ग्रहण करता है।",
+    "english": "Bring up the child in such a way that he does not become defective. True parenting is that the child imbibes more and more qualities.",
+    "Gujarati": "બાળકને એવી રીતે ઉછેરવું કે તે ખામીયુક્ત ન બને. બાળક વધુ ને વધુ ગુણો આત્મસાત કરે એ જ સાચું વાલીપણું છે."
+  },
+  {
+    "id": 78,
+    "dohe": "जुबक जनक जामात सुत, ससुर दिवर अरु भ्रात। \n\nइनहूं की एकांत बहु, कामिनी सुनि जनि बात॥",
+    "meaning": "स्त्री को चाहिए कि वह पूर्ण एकांत में युवा पिता, जामाता, बेटा, ससुर, देवर, और भाई की भी अधिक बातें न सुने। अकेले में इनके साथ बहुत देर बैठना भी नहीं चाहिए।\n\n",
+    "english": "A woman should stay in complete solitude and not listen too much to the young father, son-in-law, son, father-in-law, brother-in-law and brother. One should not sit alone with them for too long.",
+    "Gujarati": "સ્ત્રીએ સંપૂર્ણ એકાંતમાં રહેવું જોઈએ અને યુવાન પિતા, જમાઈ, પુત્ર, સસરા, વહુ અને ભાઈનું વધુ પડતું સાંભળવું જોઈએ નહીં. તેમની સાથે લાંબા સમય સુધી એકલા ન બેસવું જોઈએ."
+  },
+  {
+    "id": 79,
+    "dohe": "धरि धुवाइ रतनावलि, निज पिय पाट पुरान। \n\nजथा समय जिन दै करहु, करमचारि सनमान॥  ",
+    "meaning": "अपने पति के पुराने कपड़ो को धुलवाकर रक्खा करो और उस यथासमय कर्मचारियों को प्रदान कर उन्हें सम्मानित करो।",
+    "english": "Keep your husband's old clothes washed and kept. At the right time, give them to the employees and honor them.",
+    "gujarati": "તમારા પતિના જૂના કપડાં ધોઈને રાખો. યોગ્ય સમયે, તે કર્મચારીઓને આપો અને તેમનું સન્માન કરો."
+  },
+  {
+    "id": 80,
+    "dohe": "रतन हास पर घर गमन, खेल देह सिंगार। \n\nतज उतसवन विलोकिवो, लहि वियोग भरतार॥ ",
+    "meaning": "पति वियोग होने पर हास परिहास, परग्रह गमन, क्रीड़ा, देह का शृंगार, उत्सवों में गाना आदि सब बातों का परित्याग कर दो।",
+    "english": "In the absence of your husband, give up laughter and jesting, visiting other houses, play, bodily adornment, and participating in festivals.",
+    "gujarati": "પતિના વિયોગમાં હાસ્ય વિનોદ, અન્ય ઘરોમાં જવું, રમકડાં, શરીરના શૃંગાર અને ઉત્સવોમાં ભાગ લેવા જેવી બધી વસ્તુઓનો ત્યાગ કરો."
+  },
+  {
+    "id": 81,
+    "dohe": "पति पितु जननी बंधु हित, कुटुम परोसि विचारि। \n\nजथा जोग आदर करे, सो कुलवंती नारि॥ ",
+    "meaning": "वही स्त्री कुलीन होती है जो पति, पिता, माता, कुटुंब और पड़ोसी का विचारपूर्वक आदर करती है।",
+    "english": "A woman is considered noble if she thoughtfully respects her husband, father, mother, family, and neighbors.",
+    "gujarati": "જે સ્ત્રી પતિ, પિતા, માતા, કુટુંબ અને પાડોશીઓનો વિચારીને સન્માન કરે છે તે જ કુલીન ગણાય છે."
+  },
+  {
+    "id": 82,
+    "dohe": "पति के जीवन निधन हू, पति अनिरुचत काम। \n\nकरति न सो जग जस लहति, पावति गति अभिराम॥ ",
+    "meaning": "पति के जीवन काल में या मृत्यु के उपरांत जो स्त्री उनकी इच्छा के प्रतिकूल काम नहीं करती है, वही संसार में यश और सुंदर गति को प्राप्त करती है।",
+    "english": "A woman who does not act against her husband's wishes, whether during his lifetime or after his death, attains fame and a beautiful state in the world.",
+    "gujarati": "પતિના જીવનકાળમાં અથવા મૃત્યુ પછી જે સ્ત્રી તેમના ઇચ્છા વિરુદ્ધ કાર્ય કરતી નથી, તે જ વિશ્વમાં યશ અને સુંદર ગતિ પ્રાપ્ત કરે છે."
+  },
+  {
+    "id": 83,
+    "dohe": "बन बाधिनी आमिष भकति, भूखी घास न खाइ। \nरतन सती तिमी दुःख सहति, सुख हित अघ न कमाइ॥",
+    "meaning": "व्याघ्री वन में मांस खाती है। वह भूख से व्याकुल होकर भी घास नहीं खाती। इसी प्रकार पतिव्रता स्त्री दुःख सह लेती है किंतु सुख के लिए पाप का संग्रह नहीं करती है।",
+    "english": "A tigress in the forest feeds on meat, never eating grass out of hunger. Similarly, a devoted wife endures suffering but does not accumulate sins for the sake of happiness.",
+    "Gujarati": "વ્યાઘ્રી વન માં માંસ ખાય છે. તે ભૂખથી વ્યાકુલ થઈને ઘાસ નથી ખાય. આ રીતે પતિવ્રતાવતી સ્ત્રી દુઃખ સહે છે પરંતુ સુખ માટે પાપનો સંગ્રહ નહીં કરે છે."
+  },
+  {
+    "id": 84,
+    "dohe": "घर-घर घुमनि नारि सों, रत्नावलि मति बोलि। \nइनसे प्रीति न जोरि बहु, जनि गृह भेद नु खोलि॥",
+    "meaning": "घर-घर में घूमने वाली स्त्री से थोड़ा बोलो, इस प्रकार की स्त्रियों से बहुत प्रीति न करो और अपने घर के गुप्त रहस्यों को न खोलो।",
+    "english": "Speak a little with the woman who roams from house to house, do not develop strong affection for such women, and do not reveal the secrets of your home.",
+    "Gujarati": "ઘર-ઘર ઘૂમવાળી સ્ત્રીથી થોડી વાત કરો, આ રીતેની સ્ત્રીઓથી ખૂબ પ્રેમ ન કરો અને તમારા ઘરના ગુપ્ત રહસ્યોને ખોલવો નહીં."
+  },
+  {
+    "id": 85,
+    "dohe": "जो तिय संतति लोभ बस, करति अपन नर भोग। \nरतनावलि नरकहि परति, जग निदरत सब लोग॥",
+    "meaning": "जो स्त्री संतान की लालचना से प्रेरित पुरुष से संबंध बनाती है, वह नरक में गिरती है और सभी लोग उसकी निन्दा करते हैं।",
+    "english": "A woman who engages with a man out of greed for offspring suffers in hell, and the world condemns her.",
+    "Gujarati": "જે સ્ત્રી સંતાન ની લોભને આધારિત મનુષ્ય સાથે સંબંધ બનાવે છે, તે નરકમાં પડી જાય છે અને જગત તેની નિંદા કરે છે."
+  },
+  {
+    "id": 86,
+    "dohe": "करमचारि जन सों भली, जथा काज बतरानि। \nबहु बतानि रतनावलि, गुनि अकाज की खानि॥",
+    "meaning": "नौकरों से आवश्कतानुसार ही वार्तालाप करने में भलाई है, इनसे बहुत बोलना बुराई की समझना चाहिए।",
+    "english": "It is good to communicate with servants as necessary for work; excessive talk with them should be understood as harmful.",
+    "Gujarati": "નોકરીઓ સાથે આવશ્યકતાને અનુસરી વાર્તાલાપ કરવું ભલું છે; તેમના સાથે બહુ વાર બોલવું દોષનો માનવવું જોઈએ."
+  },
+  {
+    "id": 87,
+    "dohe": "जे निज जे पर भेद इमि, लघु जन करत विचार। \nचरित उदारन को रतन, सकल जगत परिवार॥",
+    "meaning": "यह अपना है, यह पराया है। इस प्रकार का विचार तुच्छ व्यक्ति करते हैं, उदार चरित वाले तो सारी पृथ्वी को ही अपना कुटुंब समझते हैं।",
+    "english": "Those who differentiate between mine and others, small-minded people contemplate. Generous-hearted ones consider the entire world as their family.",
+    "Gujarati": "જે આપણું અને જે પરાયું માને છે, તે લઘુ મનુષ્ય વિચારે છે. ઉદાર ચરિત્ર વાળા વ્યક્તિઓ તો આપણી વિશ્વને પરિવાર માને છે."
+  },
+  {
+    "id": 88,
+    "dohe": "वनिक फेरुआ भिछु कण, जनि कबहुं पतिआय। \nरत्नावलि जेइ रूप धरि, ठगजन ठगत भ्रमाय॥",
+    "meaning": "वणिक (व्यापारी), फेरी लगाने वाले और भिखारियों के बारे में कभी विश्वास मत करो क्योंकि ठग लोग रत्नावलि (तुलसीदास जी) के जैसे रूप धारण करके भ्रम में डालकर लोगों को ठगते हैं।",
+    "english": "Do not trust merchants, street vendors, or beggars because impostors deceive people by assuming appearances like Ratnavali (Tulsidas), causing confusion.",
+    "Gujarati": "વણિક (વ્યાપારી), ફેરી લગાનારા અને ભિખારીઓ પર ક્રિયા માટે વિશ્વાસ કરવો નહીં કરવો, કારણ કે ઠગ લોકો રત્નાવલિ (તુલસીદાસ) જેવી રૂપો ધારણ કરીને ભ્રમમાં મૂકે લોકોને ઠગી લે છે."
+  },
+  {
+    "id": 89,
+    "dohe": "सुभहु वचन अप्रकृति गरल, रतन प्रकृति के साथ। \nज्यों मो कहं पति प्रेम संग, ईस प्रेम की गाथ॥",
+    "meaning": "प्रकृति के साथ अप्रकृति गर्वित उत्तम वचन भी विष तुल्य हो जाता है। जैसे मैंने पति के साथ प्रेम संग कहा है, इस प्रेम की कहानी।",
+    "english": "Even excellent words alongside nature are like poison. Just as I spoke in love with my husband, this is the tale of that love.",
+    "Gujarati": "સવારે વચન અપ્રકૃતિ ગર્વિત છે, તે પ્રકૃતિનાં સાથે. મારી તરફથી મને જે પતિ સાથે પ્રેમ છે, તે પ્રેમની ગાથ."
+  },
+  {
+    "id": 90,
+    "dohe": "धरम सदन संतति चरित, कुल कीरति कुल रीति। \nसबहिं बिगारति नारि इक, करि पर नर सों प्रीति॥",
+    "meaning": "स्त्री को एक मात्र पुरुष से प्रेम करके सब धर्म, गृह, संतान के चरित्र, कुल, यश और कुल रीति को बिगाड़ देती है।",
+    "english": "By loving a stranger man, a woman ruins all her family's values, reputation, and customs.",
+    "Gujarati": "સ્ત્રીને બીજા પુરુષને પ્રેમ કરીને તે બધા ધર્મ, ઘર, પોતાના સંતાનનો ચરિત્ર, વંશ, યશ અને કુલને બિગાડે છે."
+  },
+  {
+    "id": 91,
+    "dohe": "रत्नावलि पति राग रंगि, दै विराग में आगि। \nउमा रमा बड़ भगिनी, नित पति पद अनुरागि॥",
+    "meaning": "तू पति के प्रेम-रंग में रंग और वैराग्य में आग लगा दे। भगवती उमा और रमा, जो की बड़ी भगिनी हैं, सदा पति के पादों में प्रेम करती रहती हैं।",
+    "english": "O Ratanavali, immerse yourself in the colors of love for your husband and kindle the fire of renunciation. Uma and Rama, great sisters, constantly cherish love for their husband's feet.",
+    "Gujarati": "હે રત્નાવલી, તમે તમારા પતિના પ્રેમના રંગમાં વિશેષ બનો અને વૈરાગ્યમાં આગ લાવો. ઉમા અને રમા, મોટી બહેનો, હંમેશા પતિના પાદોમાં પ્રેમ રાખે છે."
+  },
+  {
+    "id": 92,
+    "dohe": "फूली फलहिं इतराइ खल, जग निदरहिं सतराय। \nसाधु फूलि फलि नइ रहें, सब सों नईं बतराय॥",
+    "meaning": "दुष्ट पुरुष धन-धान्य की वृद्धि होने पर इतराते हैं और सबसे विरोध कर जगत् की निंदा करते हैं, किंतु सज्जन विनम्र बनकर रहते हैं और सबसे विनयी रहकर वार्ता करते हैं।",
+    "english": "When wicked people prosper and wealth and crops flourish, they become arrogant and criticize the world. But the righteous remain humble, interact with everyone respectfully.",
+    "Gujarati": "દુષ્ટ લોકો ધન-ધાન્યની વૃદ્ધિ થતી હોવાથી હંમેશા વિરોધ કરે છે અને વિશ્વને નિંદા કરે છે, પરંતુ સજ્જન વિનમ્ર બનીને રહે છે અને દયાળુ બનીને બધા સાથે સાંભળે છે."
+  },
+  {
+    "id": 93,
+    "dohe": "कर गहि लाए नाथ तुम, वादन बहु बजवाय। \nपदहु न परसाए तजत, रत्नावलिही जगाय॥",
+    "meaning": "हे नाथ! आपने अनेक प्रकार के बाजे बजाकर और मेरा काम ग्रहण किया, परंतु आपने मुझे तजकर जाने के समय जागरूक रहकर भी पैर छूने नहीं दिए।",
+    "english": "O Lord! You played various instruments and accepted my work, but when leaving, you did not touch my feet even while being alert.",
+    "gujarati": "હે નાથ! તમે વિવિધ વાદ્યો બજાવી અને મારું કાર્ય સ્વીકાર્યું, પરંતુ જતે જાવા અને જાગૃત રહીને પણ તમે મારા પાગ છૂટ્યા નથી."
+  },
+  {
+    "id": 94,
+    "dohe": "गुरु सखी बांधव भृत्य जन, जथा जोग गुनि चित्त। \nरतन इनहिं सादर सदा, बरतहु वितरहु वित्त॥",
+    "meaning": "गुरु, मित्र, नातेदार और सेवकों को चित्त में यथायोग्य विचार कर इनके साथ आदर का व्यवहार करो और धन दो।",
+    "english": "O mind! Treat the guru, friends, relatives, and servants with appropriate thoughts, always offer respect to them and provide wealth.",
+    "gujarati": "ગુરુ, મિત્ર, નાતેદાર અને સેવકોને તમારા ચિત્તમાં યોગ્ય વિચારથી સાદર કરો અને તેમને આદર આપો અને ધન આપો."
+  },
+  {
+    "id": 95,
+    "dohe": "अस करनी करि तू रतन, सुजन सराहें तोइ। \nतुव जीवन लखि मुद लहैं, मरैं सुधि रोइ॥",
+    "meaning": "हे मन! तू ऐसे काम कर, जिससे भले आदमी तेरी प्रशंसा करें और जिससे तेरे जीवन को देखकर लोग प्रसन्न हों, और तेरी मृत्यु के बाद मैं रो-रो कर तुझे याद करूं।",
+    "english": "Perform such actions, O mind, that wise people praise you. May people rejoice seeing your life, and after your death, may I weep remembering you.",
+    "gujarati": "હે મન! તું એવા કામ કર, જેથી બુદ્ધિમાન લોક તમને પ્રશંસા કરે. લોકો તમારા જીવનને જોઈને આનંદિત થાય અને તમારા મૃત્યુ પછી હું રોતી જાઊં છું જેમને યાદ કરીને."
+  },
+  {
+    "id": 96,
+    "dohe": "रतनावलि नइ चलि सदा, नइ सुभाइ बतराइ। \nनारि प्रशंसा नइ रहैं, नित नूतन अधिकाइ॥",
+    "meaning": "सर्वदा नम्रता का आचरण करना चाहिए और नम्रतापूर्वक बातचीत करना चाहिए। स्त्री की प्रशंसा विनम्रता में ही है, जिससे नित्यप्रति अधिक नवीनता का अनुभव होता रहे।",
+    "english": "Always maintain humility and engage in conversations with humility. Praising women should be done with humility, fostering a continual experience of novelty.",
+    "gujarati": "હંમેશા વિનમ્રતા રાખો અને વિનમ્રતાથી વાતચીત કરો. સ્ત્રીઓનું પ્રશંસા કરવું પણ વિનમ્રતાથી થવું જોઈએ, જેથી નવીનતાનું અનુભવ સદા જાળવામાં આવે છે."
+  },
+  {
+    "id": 97,
+    "dohe": "वालहि लालहु अस रतन, जो न औगनी होइ। \nदिन-दिन गुन गुरुता गहै, सांचो लालन सोइ॥",
+    "meaning": "बच्चे का लालन-पालन इस प्रकार से करो कि वह अवगुणी न बन जाए। सच्चा लालन-पालन वही है कि बच्चा अधिकाधिक गुणों को ग्रहण करता है।",
+    "english": "Raise the child in such a way, O precious one, that he does not become flawed. \nEvery day, imbibe the virtues of the Guru; this is true nurturing indeed.",
+    "gujarati": "બાળકનું પાળન-પોષણ આ રીતે કરો કે તે દોષમાં ન પડે. દિવસ-દિવસ ગુરુના ગુણોને ગ્રહણ કરવું, આ સાચું પાળન-પોષણ છે."
+  },
+  {
+    "id": 98,
+    "dohe": "जुबक जनक जामात सुत, ससुर दिवर अरु भ्रात। \nइनहूं की एकांत बहु, कामिनी सुनि जनि बात॥",
+    "meaning": "स्त्री को चाहिए कि वह पूर्ण एकांत में युवा पिता, जामाता, बेटा, ससुर, देवर, और भाई की भी अधिक बातें न सुने। अकेले में इनके साथ बहुत देर बैठना भी नहीं चाहिए।",
+    "english": "A woman should avoid listening to lengthy conversations in private with her father-in-law, son-in-law, son, father-in-law's brothers, and brothers. She should not spend prolonged time alone with them.",
+    "gujarati": "સ્ત્રી ને તેવી રીતે એકાંત સમયમાં યુવા પિતા, જામાતા, પુત્ર, સસુર, દેવર અને ભાઈને વધુ વાતો સાંભળવી જોઈએ નહીં. તે વધુ સમય તેમની સાથે એકલે બેઠવું પણ નહીં જોઈએ."
+  },
+  {
+    "id": 99,
+    "dohe": "धरि धुवाइ रतनावलि, निज पिय पाट पुरान। \nजथा समय जिन दै करहु, करमचारि सनमान॥",
+    "meaning": "अपने पति के पुराने कपड़े धोकर रखो और जब भी समय हो, तो कर्मचारियों को सम्मान दो।",
+    "english": "Wash and keep your husband's old clothes, and honor the servants when appropriate.",
+    "gujarati": "આપણા પતિના જૂના વસ્ત્રો ધોવાથી રાખો અને જ્યાં સમય આવે ત્યાં કર્મચારીઓને સન્માન કરો."
+  },
+  {
+    "id": 100,
+    "dohe": "धरम सदन संतति चरित, कुल कीरति कुल रीति। \nसबहिं बिगारति नारि इक, करि पर नर सों प्रीति॥",
+    "meaning": "स्त्री को एक मात्र पुरुष से प्रेम करके सब धर्म, गृह, संतान के चरित्र, कुल, यश और कुल रीति को बिगाड़ देती है।",
+    "english": "By loving a stranger man, a woman ruins all her family's values, reputation, and customs.",
+    "Gujarati": "સ્ત્રીને બીજા પુરુષને પ્રેમ કરીને તે બધા ધર્મ, ઘર, પોતાના સંતાનનો ચરિત્ર, વંશ, યશ અને કુલને બિગાડે છે."
+  },
+  {
+    "id": 101,
+    "dohe": "रत्नावलि पति राग रंगि, दै विराग में आगि। \nउमा रमा बड़ भगिनी, नित पति पद अनुरागि॥",
+    "meaning": "तू पति के प्रेम-रंग में रंग और वैराग्य में आग लगा दे। भगवती उमा और रमा, जो की बड़ी भगिनी हैं, सदा पति के पादों में प्रेम करती रहती हैं।",
+    "english": "O Ratanavali, immerse yourself in the colors of love for your husband and kindle the fire of renunciation. Uma and Rama, great sisters, constantly cherish love for their husband's feet.",
+    "Gujarati": "હે રત્નાવલી, તમે તમારા પતિના પ્રેમના રંગમાં વિશેષ બનો અને વૈરાગ્યમાં આગ લાવો. ઉમા અને રમા, મોટી બહેનો, હંમેશા પતિના પાદોમાં પ્રેમ રાખે છે."
+  },
+  {
+    "id": 102,
+    "dohe": "फूली फलहिं इतराइ खल, जग निदरहिं सतराय। \nसाधु फूलि फलि नइ रहें, सब सों नईं बतराय॥",
+    "meaning": "दुष्ट पुरुष धन-धान्य की वृद्धि होने पर इतराते हैं और सबसे विरोध कर जगत् की निंदा करते हैं, किंतु सज्जन विनम्र बनकर रहते हैं और सबसे विनयी रहकर वार्ता करते हैं।",
+    "english": "When wicked people prosper and wealth and crops flourish, they become arrogant and criticize the world. But the righteous remain humble, interact with everyone respectfully.",
+    "Gujarati": "દુષ્ટ લોકો ધન-ધાન્યની વૃદ્ધિ થતી હોવાથી હંમેશા વિરોધ કરે છે અને વિશ્વને નિંદા કરે છે, પરંતુ સજ્જન વિનમ્ર બનીને રહે છે અને દયાળુ બનીને બધા સાથે સાંભળે છે."
+  },
+  {
+    "id": 103,
+    "dohe": "कर गहि लाए नाथ तुम, वादन बहु बजवाय। \nपदहु न परसाए तजत, रत्नावलिही जगाय॥",
+    "meaning": "हे नाथ! आपने अनेक प्रकार के बाजे बजाकर और मेरा काम ग्रहण किया, परंतु आपने मुझे तजकर जाने के समय जागरूक रहकर भी पैर छूने नहीं दिए।",
+    "english": "O Lord! You played various instruments and accepted my work, but when leaving, you did not touch my feet even while being alert.",
+    "gujarati": "હે નાથ! તમે વિવિધ વાદ્યો બજાવી અને મારું કાર્ય સ્વીકાર્યું, પરંતુ જતે જાવા અને જાગૃત રહીને પણ તમે મારા પાગ છૂટ્યા નથી."
+  },
+  {
+    "id": 104,
+    "dohe": "गुरु सखी बांधव भृत्य जन, जथा जोग गुनि चित्त। \nरतन इनहिं सादर सदा, बरतहु वितरहु वित्त॥",
+    "meaning": "गुरु, मित्र, नातेदार और सेवकों को चित्त में यथायोग्य विचार कर इनके साथ आदर का व्यवहार करो और धन दो।",
+    "english": "O mind! Treat the guru, friends, relatives, and servants with appropriate thoughts, always offer respect to them and provide wealth.",
+    "gujarati": "ગુરુ, મિત્ર, નાતેદાર અને સેવકોને તમારા ચિત્તમાં યોગ્ય વિચારથી સાદર કરો અને તેમને આદર આપો અને ધન આપો."
+  },
+  {
+    "id": 105,
+    "dohe": "अस करनी करि तू रतन, सुजन सराहें तोइ। \nतुव जीवन लखि मुद लहैं, मरैं सुधि रोइ॥",
+    "meaning": "हे मन! तू ऐसे काम कर, जिससे भले आदमी तेरी प्रशंसा करें और जिससे तेरे जीवन को देखकर लोग प्रसन्न हों, और तेरी मृत्यु के बाद मैं रो-रो कर तुझे याद करूं।",
+    "english": "Perform such actions, O mind, that wise people praise you. May people rejoice seeing your life, and after your death, may I weep remembering you.",
+    "gujarati": "હે મન! તું એવા કામ કર, જેથી બુદ્ધિમાન લોક તમને પ્રશંસા કરે. લોકો તમારા જીવનને જોઈને આનંદિત થાય અને તમારા મૃત્યુ પછી હું રોતી જાઊં છું જેમને યાદ કરીને."
+  },
+  {
+    "id": 106,
+    "dohe": "रतनावलि नइ चलि सदा, नइ सुभाइ बतराइ। \nनारि प्रशंसा नइ रहैं, नित नूतन अधिकाइ॥",
+    "meaning": "सर्वदा नम्रता का आचरण करना चाहिए और नम्रतापूर्वक बातचीत करना चाहिए। स्त्री की प्रशंसा विनम्रता में ही है, जिससे नित्यप्रति अधिक नवीनता का अनुभव होता रहे।",
+    "english": "Always maintain humility and engage in conversations with humility. Praising women should be done with humility, fostering a continual experience of novelty.",
+    "gujarati": "હંમેશા વિનમ્રતા રાખો અને વિનમ્રતાથી વાતચીત કરો. સ્ત્રીઓનું પ્રશંસા કરવું પણ વિનમ્રતાથી થવું જોઈએ, જેથી નવીનતાનું અનુભવ સદા જાળવામાં આવે છે."
+  },
+  {
+    "id": 107,
+    "dohe": "वालहि लालहु अस रतन, जो न औगनी होइ। \nदिन-दिन गुन गुरुता गहै, सांचो लालन सोइ॥",
+    "meaning": "बच्चे का लालन-पालन इस प्रकार से करो कि वह अवगुणी न बन जाए। सच्चा लालन-पालन वही है कि बच्चा अधिकाधिक गुणों को ग्रहण करता है।",
+    "english": "Raise the child in such a way, O precious one, that he does not become flawed. \nEvery day, imbibe the virtues of the Guru; this is true nurturing indeed.",
+    "gujarati": "બાળકનું પાળન-પોષણ આ રીતે કરો કે તે દોષમાં ન પડે. દિવસ-દિવસ ગુરુના ગુણોને ગ્રહણ કરવું, આ સાચું પાળન-પોષણ છે."
+  },
+  {
+    "id": 108,
+    "dohe": "जुबक जनक जामात सुत, ससुर दिवर अरु भ्रात। \nइनहूं की एकांत बहु, कामिनी सुनि जनि बात॥",
+    "meaning": "स्त्री को चाहिए कि वह पूर्ण एकांत में युवा पिता, जामाता, बेटा, ससुर, देवर, और भाई की भी अधिक बातें न सुने। अकेले में इनके साथ बहुत देर बैठना भी नहीं चाहिए।",
+    "english": "A woman should avoid listening to lengthy conversations in private with her father-in-law, son-in-law, son, father-in-law's brothers, and brothers. She should not spend prolonged time alone with them.",
+    "gujarati": "સ્ત્રી ને તેવી રીતે એકાંત સમયમાં યુવા પિતા, જામાતા, પુત્ર, સસુર, દેવર અને ભાઈને વધુ વાતો સાંભળવી જોઈએ નહીં. તે વધુ સમય તેમની સાથે એકલે બેઠવું પણ નહીં જોઈએ."
+  },
+  {
+    "id": 109,
+    "dohe": "धरि धुवाइ रतनावलि, निज पिय पाट पुरान। \nजथा समय जिन दै करहु, करमचारि सनमान॥",
+    "meaning": "अपने पति के पुराने कपड़े धोकर रखो और जब भी समय हो, तो कर्मचारियों को सम्मान दो।",
+    "english": "Wash and keep your husband's old clothes, and honor the servants when appropriate.",
+    "gujarati": "આપણા પતિના જૂના વસ્ત્રો ધોવાથી રાખો અને જ્યાં સમય આવે ત્યાં કર્મચારીઓને સન્માન કરો."
+  }
+]
